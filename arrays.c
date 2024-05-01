@@ -31,5 +31,5 @@ int main() {
   // Many functions provided in the C standard library also have little to no
   // error checking, and are completely unsafe to use!!!
 
-  // Buffer overflow, heart bleed, etc.
+  // Buffer overflow
 }
